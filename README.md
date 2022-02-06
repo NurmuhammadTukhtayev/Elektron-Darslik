@@ -1,5 +1,5 @@
 # Elektron-Darslik
-Elektron darslik
+Qulay elektron darslik
 
 ## Foydalanish
 ``` bash
