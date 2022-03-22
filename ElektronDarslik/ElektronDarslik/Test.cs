@@ -6,7 +6,7 @@ namespace ElektronDarslik
     public partial class Test : Form
     {
         private int Num = 1;
-        private string Path = "C:\\Elektron darslik\\Data\\Test\\";
+        private string Path = "C:\\Program Files (x86)\\Elektron darslik\\Data\\Test\\";
         public Test()
         {
             InitializeComponent();

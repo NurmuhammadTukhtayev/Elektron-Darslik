@@ -4,7 +4,7 @@ namespace ElektronDarslik
 {
     public partial class Independ : Form
     {
-        private string Path = "C:\\Elektron darslik\\Data\\Independ\\";
+        private string Path = "C:\\Program Files (x86)\\Elektron darslik\\Data\\Independ\\";
         public Independ()
         {
             InitializeComponent();

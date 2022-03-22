@@ -12,7 +12,7 @@ namespace ElektronDarslik
 
         private void Intro_Load(object sender, EventArgs e)
         {
-            string file = "C:\\Elektron darslik\\Data\\Intro\\Intro.pdf";
+            string file = "C:\\Program Files (x86)\\Elektron darslik\\Data\\Intro\\Intro.pdf";
             IntroPage.LoadFile(file);
         }
     }

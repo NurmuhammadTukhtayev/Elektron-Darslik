@@ -5,7 +5,7 @@ namespace ElektronDarslik
 {
     public partial class Lectures : Form
     {
-        private string Path = "C:\\Elektron darslik\\Data\\Lecture\\";
+        private string Path = "C:\\Program Files (x86)\\Elektron darslik\\Data\\Lecture\\";
         public Lectures()
         {
             InitializeComponent();

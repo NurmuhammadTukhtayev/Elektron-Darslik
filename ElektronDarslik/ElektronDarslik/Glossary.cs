@@ -5,7 +5,7 @@ namespace ElektronDarslik
 {
     public partial class Glossary : Form
     {
-        private string file = "C:\\Elektron darslik\\Data\\Glossary\\1.pdf";
+        private string file = "C:\\Program Files (x86)\\Elektron darslik\\Data\\Glossary\\1.pdf";
         public Glossary()
         {
             InitializeComponent();

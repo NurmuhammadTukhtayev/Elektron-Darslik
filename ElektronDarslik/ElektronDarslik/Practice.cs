@@ -4,7 +4,7 @@ namespace ElektronDarslik
 {
     public partial class Practice : Form
     {
-        private string Path = "C:\\Elektron darslik\\Data\\Practice\\";
+        private string Path = "C:\\Program Files (x86)\\Elektron darslik\\Data\\Practice\\";
         public Practice()
         {
             InitializeComponent();

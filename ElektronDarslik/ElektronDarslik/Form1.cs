@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-
+ 
 namespace ElektronDarslik
 {
     public partial class Form1 : Form
@@ -13,7 +13,7 @@ namespace ElektronDarslik
         private void BtnIntro_Click(object sender, EventArgs e)
         {
             Intro intro = new Intro();
-            intro.ShowDialog();            
+            intro.ShowDialog();        
         }
 
         private void BtnLec_Click(object sender, EventArgs e)

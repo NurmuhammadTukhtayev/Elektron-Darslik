@@ -53,6 +53,7 @@ namespace ElektronDarslik
                 Num++;
 
             //MessageBox.Show(FileName);
+            
             PdfFile.LoadFile(FileName);
         }
     }
