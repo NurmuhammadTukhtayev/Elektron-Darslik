@@ -1,11 +1,15 @@
 # Elektron-Darslik
 Qulay elektron darslik
 
-## Foydalanish
+## Yuklash
 ``` bash
 git clone https://github.com/NurmuhammadTukhtayev/Elektron-Darslik.git
 ```
 
+## Eslatma
+Kompyuteringizda [acrobat reader](https://get.adobe.com/ru/reader/?promoid=TTGWL47M) o'rnatilganiga ishonch hosil qiling.
+
+## Foydalanish
 Elektron darslik deb nomlangan arxiv faylni local C diskka chiqaring.
 
 ![image](https://user-images.githubusercontent.com/83575005/152679719-9a30821c-58ee-4ff7-8499-45a3375b5bf0.png)
